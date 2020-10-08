@@ -1,10 +1,10 @@
 # NODE/ SENECA/ MICROSERVICE
 
-1:npm install;
-2:node book-store-service;
-3:node book-store-stats;
-4:node math-pin-service;
-5:node app-all;
+1:npm install  
+2:node book-store-service  
+3:node book-store-stats  
+4:node math-pin-service  
+5:node app-all  
 
 Then you see in the log: null $-/-/book;id=0r7mg7;{title:Action in Seneca,price:9.99}
 
