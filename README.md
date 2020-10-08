@@ -1,5 +1,11 @@
 # NODE/ SENECA/ MICROSERVICE
 
+There are 3 services in the Demo:  
+
+book-store-service, book-store-stats, math-pin-service
+
+steps:
+
 1:npm install  
 2:node book-store-service  
 3:node book-store-stats  
