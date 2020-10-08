@@ -1,0 +1,107 @@
+[33mcommit f8bf2abc1139488e6f09e9ab7bfe4e0903b0ceca[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: hikkiabc <hikkiabc@gmail.com>
+Date:   Thu Oct 8 10:06:58 2020 -0400
+
+    init
+
+[33mcommit 122442ff873c469a2e1d8396505d41320d2c0a61[m
+Author: Pan Tao <54778899@qq.com>
+Date:   Thu Jan 5 18:56:04 2017 +0800
+
+    添加最佳实践
+
+[33mcommit 7965759abfa58bbfcb9a87c7fc018ad2783b80d5[m
+Author: Pan Tao <54778899@qq.com>
+Date:   Thu Jan 5 18:03:46 2017 +0800
+
+    添加标题
+
+[33mcommit ab59d56f30307138700f75dcbbb21bad7e71b4e2[m
+Author: Pan Tao <54778899@qq.com>
+Date:   Thu Jan 5 17:58:05 2017 +0800
+
+    完成所有章节
+
+[33mcommit 612b84abd420f4fc52933c9124aec4cace7719ec[m
+Author: Pan Tao <54778899@qq.com>
+Date:   Thu Jan 5 16:16:35 2017 +0800
+
+    完成与WEB框架集成章节
+
+[33mcommit 2693bc24691ebac27cde725497fc68282a787d6e[m
+Author: Pan Tao <54778899@qq.com>
+Date:   Thu Jan 5 14:01:19 2017 +0800
+
+    添加hapi-app.js
+
+[33mcommit 764de681d14f7905f1d79bb28a7a2cc05333b37e[m
+Author: Pan Tao <54778899@qq.com>
+Date:   Thu Jan 5 13:24:22 2017 +0800
+
+    完成服务
+
+[33mcommit dfa267ae5d945e2125e7a5758ce52b5254443749[m
+Author: Pan Tao <54778899@qq.com>
+Date:   Thu Jan 5 12:49:56 2017 +0800
+
+    添加 math-pin-service.js 与 math-pin-client.js
+
+[33mcommit a6ac0c26f45c6b281979acbfb5b8b7937afb1a68[m
+Author: Pan Tao <54778899@qq.com>
+Date:   Thu Jan 5 12:26:04 2017 +0800
+
+    添加 write microservice 章节
+
+[33mcommit 91444f9a0b4655a7576152d02c0759176357e34d[m
+Author: Pan Tao <54778899@qq.com>
+Date:   Thu Jan 5 11:51:09 2017 +0800
+
+    使用插件组织模式
+
+[33mcommit 93e2a2f909b7fe6223ac487efd6bb6637814b63c[m
+Author: Pan Tao <54778899@qq.com>
+Date:   Thu Jan 5 10:41:44 2017 +0800
+
+    sum-valid
+
+[33mcommit 464c4cf97246a65f6a064e06a8e71aa23eaac642[m
+Author: Pan Tao <54778899@qq.com>
+Date:   Thu Jan 5 10:15:34 2017 +0800
+
+    sum-reuse.js
+
+[33mcommit 248a3712718a6d497a26957d9024aadfe2601f35[m
+Author: Pan Tao <54778899@qq.com>
+Date:   Thu Jan 5 10:05:59 2017 +0800
+
+    完成 pattern priority
+
+[33mcommit d7a5682d91fd2ca6d4ae892298b4161cbda5ad79[m
+Author: Pan Tao <54778899@qq.com>
+Date:   Thu Jan 5 09:27:07 2017 +0800
+
+    添加 README.md 文件
+
+[33mcommit ef7f7f8adea2cb348a4d8cf71f416bae0f487d61[m
+Author: Pan Tao <54778899@qq.com>
+Date:   Thu Jan 5 09:23:12 2017 +0800
+
+    添加 sum-product.js 文件
+
+[33mcommit c1162a69539c0f955e4a4c0813f4b9bb2797d50f[m
+Author: Pan Tao <54778899@qq.com>
+Date:   Thu Jan 5 09:20:53 2017 +0800
+
+    添加 product 文件
+
+[33mcommit f16f671c306f182a1e316ed46fe8b6fa7a5c718f[m
+Author: Pan Tao <54778899@qq.com>
+Date:   Thu Jan 5 09:07:51 2017 +0800
+
+    添加 gitignore文件
+
+[33mcommit d4dffa109e4a1742e0dc6e0787efa4dee679f048[m
+Author: Pan Tao <54778899@qq.com>
+Date:   Thu Jan 5 09:07:16 2017 +0800
+
+    添加 sum.js
