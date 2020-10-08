@@ -2,7 +2,9 @@
 
 There are 3 services in the Demo:  
 
-book-store-service, book-store-stats, math-pin-service
+book-store-service  
+book-store-stats  
+math-pin-service  
 
 steps:
 
